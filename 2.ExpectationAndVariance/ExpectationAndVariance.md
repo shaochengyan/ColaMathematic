@@ -3,6 +3,9 @@
 期望
 ====
 
+基本性质
+--------
+
 <img src="ExpectationAndVariance.assets/image-20220816103547663.png" alt="image-20220816103547663" style="zoom:80%;" />
 
 方差和协方差
@@ -32,4 +35,6 @@ Cov(AX) = ACov(X)A^T
 $$
 
 - 带入上面的公式即可证明
+
+
 

@@ -5,7 +5,8 @@
 
 参考
 
-- [Deep-Learning-Interview-Book/数学.md at master · amusi/Deep-Learning-Interview-Book (github.com)](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/数学.md)
+- [GitHub: DL-BOOK](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/数学.md)
+- [htlm: Computer Viision For Dummies](https://www.visiondummy.com/)
 
 目录
 ====
@@ -15,3 +16,9 @@
 
 - [卡尔曼滤波](./1.KalmanFilter)
 
+概率论与数理统计
+----------------
+
+- [期望和方差](./2.ExpectationAndVariance)
+  - 随机变量期望、方差相关性质
+  - 协方差的几何解释

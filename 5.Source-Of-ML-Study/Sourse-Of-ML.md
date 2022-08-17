@@ -1,3 +1,6 @@
+ML
+==
+
 BOOK
 
 - [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528.pdf)
@@ -8,3 +11,8 @@ Tutorial
 
 - [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
+CV
+==
+
+- [ Programming Computer Vision with Python ](http://programmingcomputervision.com/)
+- [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com/)

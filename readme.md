@@ -6,12 +6,24 @@
 参考
 
 - [GitHub: DL-BOOK](https://github.com/amusi/Deep-Learning-Interview-Book/blob/master/docs/数学.md)
-- [htlm: Computer Viision For Dummies](https://www.visiondummy.com/)
+- [html: Computer Viision For Dummies](https://www.visiondummy.com/)
+- [html: Math Insight](https://mathinsight.org/)
 
 目录
 ====
 
 - [学习资源](./5.Source-Of-ML-Study/Sourse-Of-ML.md)
+
+微积分
+------
+
+```
+./8.Calculus/
+```
+
+- [微积分总结](./8.Calculus/微积分总结.md)
+  - 泰勒展开
+  - 幂级数展开
 
 机器学习
 --------
@@ -73,11 +85,20 @@
 
 
 
+信号与系统
+----------
+
+- [拉普拉斯变换](./7.SignalAndSystem/拉普拉斯变换.md)
+  - 拉普拉斯变换常用变换对
+  - 拉普拉斯变换的性质
+  - 求解微分方程
+  - 因式分解技巧
+
 其他
 ----
 
 - [JEPG的压缩原理&&DCT](./6.Others/JPEG那不可思议的图片压缩原理.md)
   - 理解JPEG压缩的总体流程(有损、无损)
   - 明确DCT进行压缩的原理(颜色空间变化、DCT压缩)
-- [几种平均数及其直观理解]()
+- [几种平均数及其直观理解](./6.Others/几种平均数及其直观理解.md)
 

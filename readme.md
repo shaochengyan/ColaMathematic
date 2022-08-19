@@ -65,10 +65,12 @@ ColaSay
 ./4.LinearAlgebra/
 ```
 
+- 读书笔记: Introduction to Linear Algebra
+  - [Chapter 6  Eigenvalues and Eigenvectors](./4.LinearAlgebra/Introduction to Linear Algebra/Chapter 6  Eigenvalues and Eigenvectors.svg)
+
 - 线性代数知识点整理  [1](./4.LinearAlgebra/线性代数知识点整理.md)  [2](./4.LinearAlgebra/线性代数知识点整理2.md)
   - 只能说这个中文教材比较干练，换句话说很不直观，初学的时候只会抓不住要点，现在回过头来看还好
-
-- [线性代数基础(附加)](./4.LinearAlgebra/线性代数基础.md)
+- [线性代数基础(附加1)](./4.LinearAlgebra/线性代数基础.md)
   - 求解线性方程组
   - 求矩阵的逆
 - [实对称矩阵的二次型最值](./4.LinearAlgebra/实对称矩阵二次型最值.md)

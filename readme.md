@@ -66,7 +66,7 @@ ColaSay
 ```
 
 - 读书笔记: Introduction to Linear Algebra
-  - [Chapter 6  Eigenvalues and Eigenvectors](./Chapter 6  Eigenvalues and Eigenvectors.svg)
+  - [Chapter 6  Eigenvalues and Eigenvectors](./4.LinearAlgebra/Chapter 6  Eigenvalues and Eigenvectors.svg)
 
 - 线性代数知识点整理  [1](./4.LinearAlgebra/线性代数知识点整理.md)  [2](./4.LinearAlgebra/线性代数知识点整理2.md)
   - 只能说这个中文教材比较干练，换句话说很不直观，初学的时候只会抓不住要点，现在回过头来看还好

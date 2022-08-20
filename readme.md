@@ -49,6 +49,15 @@ ColaSay
 概率论与数理统计
 ----------------
 
+```
+./3.Probability-and-Mathematical-Statistics/
+```
+
+
+
+- [概率论与数理统计-基础](./3.Probability-and-Mathematical-Statistics/数学_概率论复习_ColaNote.md)    [数理统计的基本概念(补充第六章)](./3.Probability-and-Mathematical-Statistics/数学_概率论复习_ColaNote_cha6.md)
+  - 复习了基础知识，学过了一年半之后来复习确实有了好多感性、直观的理解！
+
 - [期望和方差](./2.ExpectationAndVariance)
   - 随机变量期望、方差相关性质
   - 协方差的几何解释
@@ -66,7 +75,7 @@ ColaSay
 ```
 
 - 读书笔记: Introduction to Linear Algebra
-  - [Chapter 6  Eigenvalues and Eigenvectors](./4.LinearAlgebra/Chapter 6  Eigenvalues and Eigenvectors.svg)
+  - [Chapter 6  Eigenvalues and Eigenvectors](./4.LinearAlgebra/Introduction to Linear Algebra/Chapter 6  Eigenvalues and Eigenvectors.svg)
 
 - 线性代数知识点整理  [1](./4.LinearAlgebra/线性代数知识点整理.md)  [2](./4.LinearAlgebra/线性代数知识点整理2.md)
   - 只能说这个中文教材比较干练，换句话说很不直观，初学的时候只会抓不住要点，现在回过头来看还好

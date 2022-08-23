@@ -129,6 +129,15 @@ ColaSay
   - 求解微分方程
   - 因式分解技巧
 
+最优化理论
+----------
+
+```
+./a.OptimizationTheory/
+```
+
+- [动态规划模型](./a.OptimizationTheory/动态规划模型_ColaNote.md)
+
 其他
 ----
 

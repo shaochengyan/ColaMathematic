@@ -197,7 +197,16 @@ SVM实现多分类
 一类对余类
 ----------
 
-- TODO
+> [REF](https://www.baeldung.com/cs/svm-multiclass-classification#:~:text=Multiclass%20Classification%20Using%20SVM&text=The%20idea%20is%20to%20map,into%20multiple%20binary%20classification%20problems.)
+
+> - In the *One-to-Rest* approach, the classifier can use $m$ SVMs. Each SVM would predict membership in one of the $m$ classes.
+> - 一对余的方式中，分类器使用$m$个SVM模型，每一个SVM模型预测这$m$个类别中的一个成员
+
+<img src="SVM二分类及多分类原理.assets/multiclass-svm3-e1601952776445.png" alt="img" style="zoom:80%;" />
+
+- 对于这里的点$1$，红色分类器将其划分为红色、其他两条都将其换分为非蓝色、非绿色，所以可以确认其为红色
+- 对于这里的点$2$，红色分类器将其划分为红色，蓝色分类器将其划分为蓝色，绿色分类器将其划分为非绿色，那选择谁呢？
+  - 所以需要考虑
 
 Sklearn With SVC
 ================

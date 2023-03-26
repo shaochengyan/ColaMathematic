@@ -31,6 +31,10 @@ ColaSay
   - 幂级数展开
 - [随笔](./8.Calculus/随笔.md)
   - 牛顿迭代法的理解
+- [不等式](./8.Calculus/不等式总结.md)
+  - 柯西不等式
+  - 三角不等式
+
 
 
 机器学习
@@ -102,7 +106,6 @@ ColaSay
 
 - 读书笔记: Introduction to Linear Algebra
   - [Chapter 6  Eigenvalues and Eigenvectors](./4.LinearAlgebra/Introduction to Linear Algebra/Chapter 6  Eigenvalues and Eigenvectors.svg)
-
 - 线性代数知识点整理  [1](./4.LinearAlgebra/线性代数知识点整理.md)  [2](./4.LinearAlgebra/线性代数知识点整理2.md)
   - 只能说这个中文教材比较干练，换句话说很不直观，初学的时候只会抓不住要点，现在回过头来看还好
 - [线性代数基础(附加1)](./4.LinearAlgebra/线性代数基础.md)
@@ -130,7 +133,10 @@ ColaSay
 
   - 定义及性质
     - 矩阵的转置、逆运算及其性质
-
+- [几种几何体的定义](./4.LinearAlgebra/几种几何体的定义.md)
+  - 球体/椭球
+  - 多边形
+- [奇异值专题](././4.LinearAlgebra/奇异值专题.md) TODO
 
 
 信号与系统
@@ -164,3 +170,5 @@ ColaSay
   - 如何理解解线性方程时出现的$0=0$
   - 等差数列求和公式的理解
   - 等比数列求和公式的理解
+  - 对$\Delta x$的理解
+  - 点到超平面(直线)距离公式的快速证明
